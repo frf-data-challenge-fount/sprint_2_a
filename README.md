@@ -14,5 +14,5 @@ In this courselet, you will work with the ALS dataset again. One introductory no
 
 If using a Jupyter server (e.g., Chameleon or NDP), ensure the following Docker image is specified: `pramonettivega/terra:0.1`
 
-**NOTE:** This courselet is an adaptation of the original Sprint 1 content delivered as part of the [Fire-Ready Forests Data Challenge](https://nationaldataplatform.org/educationhub/datachallenge/learner/1b1cbc30-8477-4cb9-b8a9-c0769999c7d1), which was hosted by the [National Data Platform](https://nationaldataplatform.org/) from February 19 to April 18, 2025. 
+**NOTE:** This courselet is an adaptation of the original Sprint 2 content delivered as part of the [Fire-Ready Forests Data Challenge](https://nationaldataplatform.org/educationhub/datachallenge/learner/1b1cbc30-8477-4cb9-b8a9-c0769999c7d1), which was hosted by the [National Data Platform](https://nationaldataplatform.org/) from February 19 to April 18, 2025. 
 
